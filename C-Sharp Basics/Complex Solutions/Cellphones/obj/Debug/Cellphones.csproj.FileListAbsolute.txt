@@ -1,0 +1,7 @@
+D:\C sharp\Complex Solutions\Cellphones\bin\Debug\Cellphones.exe.config
+D:\C sharp\Complex Solutions\Cellphones\bin\Debug\Cellphones.exe
+D:\C sharp\Complex Solutions\Cellphones\bin\Debug\Cellphones.pdb
+D:\C sharp\Complex Solutions\Cellphones\obj\Debug\Cellphones.csprojAssemblyReference.cache
+D:\C sharp\Complex Solutions\Cellphones\obj\Debug\Cellphones.csproj.CoreCompileInputs.cache
+D:\C sharp\Complex Solutions\Cellphones\obj\Debug\Cellphones.exe
+D:\C sharp\Complex Solutions\Cellphones\obj\Debug\Cellphones.pdb
