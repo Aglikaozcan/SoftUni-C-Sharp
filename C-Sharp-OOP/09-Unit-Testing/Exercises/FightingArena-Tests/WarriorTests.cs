@@ -1,8 +1,8 @@
-﻿using NUnit.Framework;
+using NUnit.Framework;
 
 namespace Tests
 {
-    public class ArenaTests
+    public class WarriorTests
     {
         [SetUp]
         public void Setup()
