@@ -1,0 +1,45 @@
+﻿namespace ViceCity.Repositories
+{
+    using System.Collections.Generic;
+    using ViceCity.Models.Guns.Contracts;
+    using ViceCity.Repositories.Contracts;
+
+    public class GunRepository : IRepository<IGun>
+    {
+        private List<IGun> models;
+
+        public GunRepository()
+        {
+            this.models = new List<IGun>();
+        }
+
+        public IReadOnlyCollection<IGun> Models => this.models.AsReadOnly();
+
+        public void Add(IGun model)
+        {
+            if (!this.models.Contains(model))
+            {
+                this.models.Add(model);
+            }
+        }
+
+        public IGun Find(string name)
+        {
+            var gun = this.models.Find(x => x.Name == name);
+
+            return gun;
+        }
+
+        public bool Remove(IGun model)
+        {
+            if (this.models.Contains(model))
+            {
+                this.models.Remove(model);
+
+                return true;
+            }
+
+            return false;
+        }
+    }
+}
