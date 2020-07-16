@@ -1,0 +1,11 @@
+F:\C#\C# ADVANCED\01. STACKS AND QUEUES\STACKS AND QUEUES\03. Simple Calculator\bin\Debug\netcoreapp2.1\03. Simple Calculator.deps.json
+F:\C#\C# ADVANCED\01. STACKS AND QUEUES\STACKS AND QUEUES\03. Simple Calculator\bin\Debug\netcoreapp2.1\03. Simple Calculator.runtimeconfig.json
+F:\C#\C# ADVANCED\01. STACKS AND QUEUES\STACKS AND QUEUES\03. Simple Calculator\bin\Debug\netcoreapp2.1\03. Simple Calculator.runtimeconfig.dev.json
+F:\C#\C# ADVANCED\01. STACKS AND QUEUES\STACKS AND QUEUES\03. Simple Calculator\bin\Debug\netcoreapp2.1\03. Simple Calculator.dll
+F:\C#\C# ADVANCED\01. STACKS AND QUEUES\STACKS AND QUEUES\03. Simple Calculator\bin\Debug\netcoreapp2.1\03. Simple Calculator.pdb
+F:\C#\C# ADVANCED\01. STACKS AND QUEUES\STACKS AND QUEUES\03. Simple Calculator\obj\Debug\netcoreapp2.1\03. Simple Calculator.csprojAssemblyReference.cache
+F:\C#\C# ADVANCED\01. STACKS AND QUEUES\STACKS AND QUEUES\03. Simple Calculator\obj\Debug\netcoreapp2.1\03. Simple Calculator.csproj.CoreCompileInputs.cache
+F:\C#\C# ADVANCED\01. STACKS AND QUEUES\STACKS AND QUEUES\03. Simple Calculator\obj\Debug\netcoreapp2.1\03. Simple Calculator.AssemblyInfoInputs.cache
+F:\C#\C# ADVANCED\01. STACKS AND QUEUES\STACKS AND QUEUES\03. Simple Calculator\obj\Debug\netcoreapp2.1\03. Simple Calculator.AssemblyInfo.cs
+F:\C#\C# ADVANCED\01. STACKS AND QUEUES\STACKS AND QUEUES\03. Simple Calculator\obj\Debug\netcoreapp2.1\03. Simple Calculator.dll
+F:\C#\C# ADVANCED\01. STACKS AND QUEUES\STACKS AND QUEUES\03. Simple Calculator\obj\Debug\netcoreapp2.1\03. Simple Calculator.pdb
